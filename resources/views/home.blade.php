@@ -86,7 +86,7 @@
         <li><a href="#about">About</a></li>
         <li><a href="#benefits">Benefits</a></li>
         <li><a href="#how-it-works">How it Works</a></li>
-        <li><a href="#team">The Team</a></li>
+        <li><a href="#team">Pricing</a></li>
 
         <!-- HEADER ACTION BUTTON -->
         <li class="header-action-button"><a href="/auth/login" class="btn btn-primary">Login</a></li>
